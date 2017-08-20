@@ -6,43 +6,19 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2017 19:10:38 -0400</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 19:10:38 -0400</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2017 19:24:34 -0400</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 19:24:34 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>Marketer Workspace</title>
         <description>&lt;p&gt;An internal marketing campaign platform for IBM’s global marketing teams.&lt;/p&gt;
+
+&lt;p&gt;Technology Stack: &lt;strong&gt;API, AngularJS, Typescript, ES6, Node, Karma, Jasmine, Protractor, Grunt, SASS, HTML5, CSS3, Git&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Aug 2017 15:00:00 -0400</pubDate>
         <link>http://localhost:4000/2017/08/20/marketerworkspace.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/20/marketerworkspace.html</guid>
-        
-        <category>API,</category>
-        
-        <category>AngularJS,</category>
-        
-        <category>Typescript,</category>
-        
-        <category>ES6,</category>
-        
-        <category>Node,</category>
-        
-        <category>Karma,</category>
-        
-        <category>Jasmine,</category>
-        
-        <category>Protractor,</category>
-        
-        <category>Grunt,</category>
-        
-        <category>SASS,</category>
-        
-        <category>HTML5,</category>
-        
-        <category>CSS3,</category>
-        
-        <category>Git</category>
         
         
       </item>
@@ -50,26 +26,12 @@
       <item>
         <title>IBM Cloud Computing</title>
         <description>&lt;p&gt;A public facing website for IBM Cloud website. We dramatically increased traffic, awareness, purchase of cloud services, and established best practices to scale to global production teams.&lt;/p&gt;
+
+&lt;p&gt;Technology Stack: &lt;strong&gt;CMS, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, Git&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Aug 2017 14:30:00 -0400</pubDate>
         <link>http://localhost:4000/2017/08/20/ibmcloud.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/20/ibmcloud.html</guid>
-        
-        <category>CMS,</category>
-        
-        <category>JavaScript,</category>
-        
-        <category>jQuery,</category>
-        
-        <category>HTML5,</category>
-        
-        <category>CSS3,</category>
-        
-        <category>SASS,</category>
-        
-        <category>Grunt,</category>
-        
-        <category>Git</category>
         
         
       </item>
@@ -77,36 +39,12 @@
       <item>
         <title>IBM Think Management</title>
         <description>&lt;p&gt;An intranet web application that enables IBM managers to share and learn management practices.&lt;/p&gt;
+
+&lt;p&gt;Technology Stack: &lt;strong&gt;IBM ECM, IBM Connections API, Dojo, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, SVN&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Aug 2017 14:00:00 -0400</pubDate>
         <link>http://localhost:4000/2017/08/20/thinkmanagement.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/20/thinkmanagement.html</guid>
-        
-        <category>IBM</category>
-        
-        <category>ECM,</category>
-        
-        <category>IBM</category>
-        
-        <category>Connections</category>
-        
-        <category>API,</category>
-        
-        <category>Dojo,</category>
-        
-        <category>JavaScript,</category>
-        
-        <category>jQuery,</category>
-        
-        <category>HTML5,</category>
-        
-        <category>CSS3,</category>
-        
-        <category>SASS,</category>
-        
-        <category>Grunt,</category>
-        
-        <category>SVN</category>
         
         
       </item>
@@ -114,18 +52,12 @@
       <item>
         <title>Coca-Cola Mix'On</title>
         <description>&lt;p&gt;Developed for LBi an interactive questionnaire for Coca-Cola and American Music Awards.&lt;/p&gt;
+
+&lt;p&gt;Technology Stack: &lt;strong&gt;JavaScript, jQuery, HTML5, CSS3&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Aug 2017 13:30:00 -0400</pubDate>
         <link>http://localhost:4000/2017/08/20/mixon.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/20/mixon.html</guid>
-        
-        <category>JavaScript,</category>
-        
-        <category>jQuery,</category>
-        
-        <category>HTML5,</category>
-        
-        <category>CSS3</category>
         
         
       </item>
@@ -133,22 +65,12 @@
       <item>
         <title>Qnasl Device Tour</title>
         <description>&lt;p&gt;Developed for Heartbeat Ideas an interactive 360° tour of a nasal spray.&lt;/p&gt;
+
+&lt;p&gt;Technology Stack: &lt;strong&gt;Sencha Animator, JavaScript, jQuery, HTML5, CSS3&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Aug 2017 13:00:00 -0400</pubDate>
         <link>http://localhost:4000/2017/08/20/qnasl.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/20/qnasl.html</guid>
-        
-        <category>Sencha</category>
-        
-        <category>Animator,</category>
-        
-        <category>JavaScript,</category>
-        
-        <category>jQuery,</category>
-        
-        <category>HTML5,</category>
-        
-        <category>CSS3</category>
         
         
       </item>
@@ -156,28 +78,12 @@
       <item>
         <title>The Weinstein Company</title>
         <description>&lt;p&gt;Initially developed using Adobe Flash and ActionScript, I created many websites for the Weinstein Company, including their corporate sites. Around 2010, we started migrating sites to social media platforms and Wordpress.&lt;/p&gt;
+
+&lt;p&gt;Technology Stack: &lt;strong&gt;Wordpress, PHP, SQL, JavaScript, jQuery, HTML, CSS, Flash, ActionScript&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Aug 2017 12:30:00 -0400</pubDate>
         <link>http://localhost:4000/2017/08/20/weinsteinco.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/20/weinsteinco.html</guid>
-        
-        <category>Wordpress,</category>
-        
-        <category>PHP,</category>
-        
-        <category>SQL,</category>
-        
-        <category>JavaScript,</category>
-        
-        <category>jQuery,</category>
-        
-        <category>HTML,</category>
-        
-        <category>CSS,</category>
-        
-        <category>Flash,</category>
-        
-        <category>ActionScript</category>
         
         
       </item>

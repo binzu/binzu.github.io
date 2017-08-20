@@ -9,6 +9,7 @@ client: "IBM"
 img: img/portfolio/ibmcloud.png
 modalID: modalIBMCloud
 role: "Frontend Developer Lead"
-tags: "CMS, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, Git"
 ---
 A public facing website for IBM Cloud website. We dramatically increased traffic, awareness, purchase of cloud services, and established best practices to scale to global production teams.
+
+Technology Stack: **CMS, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, Git**

@@ -9,6 +9,7 @@ client: "IBM"
 img: img/portfolio/marketerworkspace.png
 modalID: modalMarketerWorkspace
 role: "Applications Developer"
-tags: "API, AngularJS, Typescript, ES6, Node, Karma, Jasmine, Protractor, Grunt, SASS, HTML5, CSS3, Git"
 ---
 An internal marketing campaign platform for IBM's global marketing teams.
+
+Technology Stack: **API, AngularJS, Typescript, ES6, Node, Karma, Jasmine, Protractor, Grunt, SASS, HTML5, CSS3, Git**

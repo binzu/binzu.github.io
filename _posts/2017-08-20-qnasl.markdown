@@ -9,6 +9,7 @@ client: "Heartbeat Ideas"
 img: img/portfolio/qnasl.png
 modalID: modalQnasl
 role: "Interactive Developer"
-tags: "Sencha Animator, JavaScript, jQuery, HTML5, CSS3"
 ---
 Developed for Heartbeat Ideas an interactive 360° tour of a nasal spray.
+
+Technology Stack: **Sencha Animator, JavaScript, jQuery, HTML5, CSS3**

@@ -9,6 +9,7 @@ client: "LBi"
 img: img/portfolio/mixon.png
 modalID: modalMixon
 role: "Frontend Developer"
-tags: "JavaScript, jQuery, HTML5, CSS3"
 ---
 Developed for LBi an interactive questionnaire for Coca-Cola and American Music Awards.
+
+Technology Stack: **JavaScript, jQuery, HTML5, CSS3**

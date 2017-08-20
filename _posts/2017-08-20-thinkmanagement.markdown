@@ -9,6 +9,7 @@ client: "IBM"
 img: img/portfolio/thinkmanagement.png
 modalID: modalThinkManagement
 role: "Frontend Developer Lead"
-tags: "IBM ECM, IBM Connections API, Dojo, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, SVN"
 ---
 An intranet web application that enables IBM managers to share and learn management practices.
+
+Technology Stack: **IBM ECM, IBM Connections API, Dojo, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, SVN**
