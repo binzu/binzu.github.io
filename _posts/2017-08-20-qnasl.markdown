@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Qnasl Device Tour"
+date:   2017-08-20 17:00:00 +0000
+startDate:  2011-12-20 16:41:12 +0000
+endDate:  2012-02-20 16:41:12 +0000
+company: "Robert Half Technology"
+client: "Heartbeat Ideas"
+img: img/portfolio/qnasl.png
+modalID: modalQnasl
+role: "Interactive Developer"
+tags: "Sencha Animator, JavaScript, jQuery, HTML5, CSS3"
+---
+Developed for Heartbeat Ideas an interactive 360° tour of a nasal spray.
