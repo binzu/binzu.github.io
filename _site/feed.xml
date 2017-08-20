@@ -6,9 +6,24 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2017 01:05:38 -0400</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 01:05:38 -0400</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2017 14:27:04 -0400</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 14:27:04 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Marketer Workspace</title>
+        <description>&lt;p&gt;An internal marketing campaign platform for IBM’s global marketing teams.&lt;/p&gt;
+
+&lt;p&gt;Front end technologies: AngularJS, Redux, Typescript, Karma, Jasmine, Protractor, Grunt, SASS, HTML5, CSS3, GIT&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Aug 2017 12:41:12 -0400</pubDate>
+        <link>http://localhost:4000/frontend%20angular/2017/08/20/marketerworkspace.html</link>
+        <guid isPermaLink="true">http://localhost:4000/frontend%20angular/2017/08/20/marketerworkspace.html</guid>
+        
+        
+        <category>Frontend Angular</category>
+        
+      </item>
     
       <item>
         <title>Cabin</title>
