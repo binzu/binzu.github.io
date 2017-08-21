@@ -10,6 +10,6 @@ img: img/portfolio/qnasl.png
 modalID: modalQnasl
 role: "Interactive Developer"
 ---
-Developed for Heartbeat Ideas an interactive 360° tour of a nasal spray.
+Developed an interactive 360° visualization of a nasal spray for a large pharmaceutical industry client.
 
-Technology Stack: **Sencha Animator, JavaScript, jQuery, HTML5, CSS3**
+Technology used: **Sencha Animator, JavaScript, jQuery, HTML5, CSS3, Canvas**

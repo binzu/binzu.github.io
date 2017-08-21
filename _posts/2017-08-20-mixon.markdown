@@ -10,6 +10,6 @@ img: img/portfolio/mixon.png
 modalID: modalMixon
 role: "Frontend Developer"
 ---
-Developed for LBi an interactive questionnaire for Coca-Cola and American Music Awards.
+Spearheaded Coca-Cola's Road to the VMAs digital marketing campaign by building a responsive interactive timeline and questionnaire designed for smartphones and tablets.
 
-Technology Stack: **JavaScript, jQuery, HTML5, CSS3**
+Technology used: **JavaScript, jQuery, HTML5, CSS3**

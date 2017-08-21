@@ -10,6 +10,6 @@ img: img/portfolio/ibmcloud.png
 modalID: modalIBMCloud
 role: "Frontend Developer Lead"
 ---
-A public facing website for IBM Cloud website. We dramatically increased traffic, awareness, purchase of cloud services, and established best practices to scale to global production teams.
+Successfully revamped the IBM cloud website to new CMS and responsive layout, and drastically improved SEO and performance through collaboration in an agile development team. Developed maintainable technical documentation and an online CSS style guide, simplifying transfer of knowledge workflow and global deployment processes.
 
-Technology Stack: **CMS, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, Git**
+Technology used: **CMS, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, Git**

@@ -10,6 +10,6 @@ img: img/portfolio/thinkmanagement.png
 modalID: modalThinkManagement
 role: "Frontend Developer Lead"
 ---
-An intranet web application that enables IBM managers to share and learn management practices.
+Prototyped and developed features for an IBM management training tool and customized front-end for a manager forum.
 
-Technology Stack: **IBM ECM, IBM Connections API, Dojo, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, SVN**
+Technology used: **IBM ECM, IBM Connections API, Dojo, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, SVN**
