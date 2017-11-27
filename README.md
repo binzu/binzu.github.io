@@ -7,4 +7,4 @@ Gulp setup based on Babel, Gulp and Jekyll for GitHub Pages at this [blog post](
 ## Development
 Theme development documentation is at [Jekyll theme based on Freelancer Start Bootstrap theme](https://github.com/jeromelachaud/freelancer-theme).
 
-Github pages boilerplate is forked from [gitub-pages-boilerplate](https://github.com/batzner/github-pages-boilerplate) repository.
+Github pages boilerplate is forked from [github-pages-boilerplate](https://github.com/batzner/github-pages-boilerplate) repository.
