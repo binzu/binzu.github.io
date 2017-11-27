@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "IBM Cloud Computing"
+date:  2017-08-20 18:30:00 +0000
+startDate: 2014-02-20 16:41:12 +0000
+endDate: 2015-05-20 16:41:12 +0000
+company: "Ogilvy & Mather"
+client: "IBM"
+img: img/portfolio/ibmcloud.png
+modalID: modalIBMCloud
+role: "Frontend Developer Lead"
+---
+Successfully revamped the IBM cloud website to new CMS and responsive layout, and drastically improved SEO and performance through collaboration in an agile development team. Developed maintainable technical documentation and an online CSS style guide, simplifying transfer of knowledge workflow and global deployment processes.
+
+Technology used: **CMS, JavaScript, jQuery, HTML5, CSS3, SASS, Grunt, Git**

@@ -6,14 +6,20 @@
 const gulp = require('gulp');
 
 // Include plug-ins
+const clean = require('gulp-clean');
 const babel = require('gulp-babel');
 
 // Base for specifying paths in gulp.src and gulp.dest
-const distDir = './';
+const distDir = '_dist/';
 
-// Copy all files to the dist directory. On the master-branch, we cannot clean the dist directory
-// first if it is the root directory.
-gulp.task('_copy', function () {
+// Clean the dist directory
+gulp.task('_clean', function () {
+    return gulp.src(distDir)
+        .pipe(clean());
+});
+
+// Copy all files to the dist directory
+gulp.task('_copy', ['_clean'], function () {
     return gulp.src(['src/**/*']).pipe(gulp.dest(distDir));
 });
 
