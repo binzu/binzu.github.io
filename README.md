@@ -1,4 +1,4 @@
-# github-pages-boilerplate
+# binzu.github.io
 
 Theme based on [Freelancer](https://startbootstrap.com/template-overviews/freelancer/), an open source [Jekyll] (https://jekyllrb.com/) theme.
 
