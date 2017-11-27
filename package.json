@@ -1,13 +1,13 @@
 {
-  "name": "github-pages-boilerplate",
-  "version": "1.0.0",
-  "description": "Boilerplate for GitHub pages with Gulp and Babel",
+  "name": "binzu.github.io",
+  "version": "2.0.0",
+  "description": "Website for Vince Golveo: Frontend Engineer - Artist - Web Developer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/batzner/github-pages-boilerplate"
+    "url": "git+https://github.com/binzu/binzu.github.io/"
   },
   "keywords": [
     "github",
@@ -17,12 +17,12 @@
     "babel",
     "blog"
   ],
-  "author": "Kilian Batzner",
+  "author": "Vince Golveo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/batzner/github-pages-boilerplate/issues"
+    "url": "https://github.com/binzu/binzu.github.io/issues"
   },
-  "homepage": "https://github.com/batzner/github-pages-boilerplate#readme",
+  "homepage": "https://github.com/binzu/binzu.github.io#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-preset-es2015": "^6.24.1",
