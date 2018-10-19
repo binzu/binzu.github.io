@@ -6,7 +6,7 @@ startDate: 2015-05-20 19:39:53 +0000
 endDate: 2017-06-20 19:39:53 +0000
 company: "Ogilvy & Mather"
 client: "IBM"
-img: img/portfolio/marketerworkspace.png
+img: img/portfolio/marketerworkspace.jpg
 modalID: modalMarketerWorkspace
 role: "Applications Developer"
 ---

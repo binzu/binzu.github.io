@@ -6,7 +6,7 @@ startDate:   2012-08-20 16:41:12 +0000
 endDate:   2014-08-20 16:41:12 +0000
 company: "Ogilvy & Mather"
 client: "IBM"
-img: img/portfolio/thinkmanagement.png
+img: img/portfolio/thinkmanagement.jpg
 modalID: modalThinkManagement
 role: "Frontend Developer Lead"
 ---

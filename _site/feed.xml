@@ -2,13 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vince Golveo</title>
-    <description>Frontend Engineer - Artist - Applications Developer
+    <description>Front-End Web Developer Consultant
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Aug 2017 00:11:54 -0400</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2017 00:11:54 -0400</lastBuildDate>
+    <pubDate>Fri, 19 Oct 2018 17:43:51 -0400</pubDate>
+    <lastBuildDate>Fri, 19 Oct 2018 17:43:51 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Renegade Marketing</title>
+        <description>&lt;p&gt;A B2B site for a marketing consultancy group. Set up site architecture, staging servers, database, and Git repositories. Customized CMS forms through plugins and Advanced Custom Fields. Infinite scroll implemented on all post listing pages. Responsive design.&lt;/p&gt;
+
+&lt;p&gt;Technology used: &lt;strong&gt;Wordpress, PHP, MySQL, Advance Custom Fields, Git, Gulp, Node, Bootstrap 4, SASS, JavaScript, jQuery, HTML, CSS&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Oct 2018 12:30:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/10/19/renegade.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/19/renegade.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Calligrahy Pack</title>
+        <description>&lt;p&gt;E-commerce site with a catalog of over 150 products.&lt;/p&gt;
+
+&lt;p&gt;Technology used: &lt;strong&gt;Shopify CMS, Liquid, PHP, JavaScript, jQuery, HTML, CSS&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Oct 2018 08:30:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/10/19/calligraphypack.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/19/calligraphypack.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sara Cowlan</title>
+        <description>&lt;p&gt;Website for a professional nutritionist office.&lt;/p&gt;
+
+&lt;p&gt;Technology used: &lt;strong&gt;WordPress, Bootstrap 4, HTML5, CSS&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Oct 2018 07:30:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/10/19/saracowlan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/19/saracowlan.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Binzu Digital</title>
+        <description>&lt;p&gt;Corporate website.&lt;/p&gt;
+
+&lt;p&gt;Technology used: &lt;strong&gt;Sencha Animator, JavaScript, jQuery, HTML5, CSS3, Canvas&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Oct 2018 22:30:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/10/18/binzu.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/18/binzu.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Marketer Workspace</title>
@@ -71,19 +123,6 @@
         <pubDate>Sun, 20 Aug 2017 13:00:00 -0400</pubDate>
         <link>http://localhost:4000/2017/08/20/qnasl.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/20/qnasl.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Weinstein Company</title>
-        <description>&lt;p&gt;Initially using Adobe Flash and ActionScript, developed many marketing websites for the Weinstein Company, including their corporate site. Around 2010, started migrating site content to social media platforms and Wordpress, which directly improved technical services, site maintainability, and creation.&lt;/p&gt;
-
-&lt;p&gt;Technology used: &lt;strong&gt;Wordpress, PHP, SQL, JavaScript, jQuery, HTML, CSS, Flash, ActionScript&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 20 Aug 2017 12:30:00 -0400</pubDate>
-        <link>http://localhost:4000/2017/08/20/weinsteinco.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/20/weinsteinco.html</guid>
         
         
       </item>

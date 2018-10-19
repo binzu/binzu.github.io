@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Binzu Digital"
+date: 2018-10-19 02:30:00 +0000
+startDate:  2019-01-20 16:41:12 +0000
+endDate:  2019-02-20 16:41:12 +0000
+company: "Binzu Digital"
+client: "Binzu Digital"
+img: img/portfolio/binzu.jpg
+modalID: modalBinzu
+role: "Interactive Developer"
+---
+Corporate website.
+
+Technology used: **Sencha Animator, JavaScript, jQuery, HTML5, CSS3, Canvas**

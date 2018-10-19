@@ -6,7 +6,7 @@ startDate: 2007-08-20 16:41:12 +0000
 endDate: 2012-03-20 16:41:12 +0000
 company: "Mammoth Advertising"
 client: "The Weinstein Company"
-img: img/portfolio/weinsteinco.png
+img: img/portfolio/weinsteinco.jpg
 modalID: modalWeinsteinCo
 role: "Senior Interactive Developer"
 ---

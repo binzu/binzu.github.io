@@ -6,7 +6,7 @@ startDate: 2014-02-20 16:41:12 +0000
 endDate: 2015-05-20 16:41:12 +0000
 company: "Ogilvy & Mather"
 client: "IBM"
-img: img/portfolio/ibmcloud.png
+img: img/portfolio/ibmcloud.jpg
 modalID: modalIBMCloud
 role: "Frontend Developer Lead"
 ---

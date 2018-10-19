@@ -6,7 +6,7 @@ startDate:  2011-12-20 16:41:12 +0000
 endDate:  2012-02-20 16:41:12 +0000
 company: "Robert Half Technology"
 client: "Heartbeat Ideas"
-img: img/portfolio/qnasl.png
+img: img/portfolio/qnasl.jpg
 modalID: modalQnasl
 role: "Interactive Developer"
 ---
