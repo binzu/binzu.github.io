@@ -10,6 +10,6 @@ img: img/portfolio/calligraphypack.jpg
 modalID: modalCPack
 role: "Designer, Developer, SEO and Marketing"
 ---
-E-commerce site with a catalog of over 150 products.
+A responsive e-commerce store with hundreds of products built on the Shopify platform with PHP and Liquid, and designed with Sketch and Photoshop.
 
-Technology used: **Shopify CMS, Liquid, PHP, JavaScript, jQuery, HTML, CSS**
+Technology used: **Shopify CMS, Liquid, PHP, JavaScript, jQuery, HTML, CSS, Sketch, Photoshop**

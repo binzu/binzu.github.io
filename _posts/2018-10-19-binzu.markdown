@@ -10,6 +10,6 @@ img: img/portfolio/binzu.jpg
 modalID: modalBinzu
 role: "Interactive Developer"
 ---
-Corporate website.
+A responsive corporate website for Binzu Digital built using WordPress with Bootstrap, and designed in Sketch.
 
-Technology used: **Sencha Animator, JavaScript, jQuery, HTML5, CSS3, Canvas**
+Technology used: **Wordpress, PHP, MySQL, Bootstrap, Photoshop, Sketch**

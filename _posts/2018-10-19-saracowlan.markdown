@@ -10,6 +10,6 @@ img: img/portfolio/saracowlan.jpg
 modalID: modalScowlan
 role: "Freelance Front-End Developer"
 ---
-Website for a professional nutritionist office.
+A responsive website for a nutritionist built with WordPress and designed with Sketch and Photoshop.
 
-Technology used: **WordPress, Bootstrap 4, HTML5, CSS**
+Technology used: **WordPress, Bootstrap 4, HTML5, CSS, Sketch, Photoshop**
