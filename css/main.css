@@ -550,7 +550,8 @@ header img{
       text-align: center
   }
 
-  .portfolio-modal .modal-content h2 {
+  .portfolio-modal .modal-content h2,
+  .portfolio-modal .modal-content h3 {
       margin: 0;
       font-size: 3em
   }
