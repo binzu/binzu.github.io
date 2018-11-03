@@ -556,6 +556,11 @@ header img{
       font-size: 3em
   }
 
+
+  .portfolio-modal .modal-content h4 .fa-external-link {
+      color: #4CAC9D;
+  }
+
   .portfolio-modal .modal-content img {
       margin-bottom: 30px
   }
