@@ -9,6 +9,7 @@ client: "Calligraphy Pack"
 img: img/portfolio/calligraphypack.jpg
 modalID: modalCPack
 role: "Designer, Developer, SEO and Marketing"
+link: "https://www.calligraphypack.com/"
 ---
 A responsive e-commerce store with hundreds of products built on the Shopify platform with PHP and Liquid, and designed with Sketch and Photoshop.
 

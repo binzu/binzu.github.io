@@ -10,6 +10,7 @@ client: "Renegade Marketing"
 img: img/portfolio/renegade.jpg
 modalID: modalRenegade
 role: "Lead Front-End Developer Consultant"
+link: "https://renegade.com/"
 ---
 A B2B site for a marketing consultancy group. Set up site architecture, staging servers, database, and Git repositories. Customized CMS forms through plugins and Advanced Custom Fields. Infinite scroll implemented on all post listing pages. Responsive design.
 

@@ -9,6 +9,7 @@ client: "Sara Cowlan"
 img: img/portfolio/saracowlan.jpg
 modalID: modalScowlan
 role: "Freelance Front-End Developer"
+link: "http://saracowlan.com/"
 ---
 A responsive website for a nutritionist built with WordPress and designed with Sketch and Photoshop.
 

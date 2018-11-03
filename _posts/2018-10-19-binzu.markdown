@@ -9,6 +9,7 @@ client: "Binzu Digital"
 img: img/portfolio/binzu.jpg
 modalID: modalBinzu
 role: "Interactive Developer"
+link: "https://binzu.io/"
 ---
 A responsive corporate website for Binzu Digital built using WordPress with Bootstrap, and designed in Sketch.
 
