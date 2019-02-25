@@ -8,7 +8,8 @@ company: "Mammoth Advertising"
 client: "The Weinstein Company"
 img: img/portfolio/weinsteinco.jpg
 modalID: modalWeinsteinCo
-role: "Senior Interactive Developer"
+role: "Lead Web Developer"
+link: "https://honeycombhealth.com/"
 ---
 Initially using Adobe Flash and ActionScript, developed many marketing websites for the Weinstein Company, including their corporate site. Around 2010, started migrating site content to social media platforms and Wordpress, which directly improved technical services, site maintainability, and creation.
 
