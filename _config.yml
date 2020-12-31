@@ -31,3 +31,5 @@ address_zip: 11238
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
